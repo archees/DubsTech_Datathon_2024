@@ -30,3 +30,9 @@ Which ports experience the most crossings by date and type?
 2. *Exploratory Data Analysis*: Identified key features and patterns.
 3. *Visualization*: Used charts and graphs to illustrate findings.Created a dashboard which can help visualize state wise ports with a given date and type of crossings.
 4. *Metric Development*: Created and applied a composite metric to rank ports.
+
+##### To-Dos:
+Develop machine learning models to forecast future border crossing volumes for the next 2 years for:
+A particular port
+Border crossing type
+using ARIMA algorithm
